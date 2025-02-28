@@ -80,8 +80,8 @@ The dataset consists of chest X-ray images collected from multiple sources, incl
 - Research papers and sources used in model development are cited in the accompanying report.
 
 ## Contributors
-- **Umut Çalıkkasap** – Istanbul Technical University
 - **Oğuz Kağan Pürçek** – Istanbul Technical University
+- **Umut Çalıkkasap** – Istanbul Technical University
 
 ## License
 This project is for research purposes only. Ensure compliance with **data privacy laws** before using patient data.
